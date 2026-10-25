@@ -7,12 +7,12 @@ export const contact = {
 };
 
 export const navLinks = [
-  { href: '/', label: 'Home' },
-  { href: '/services', label: 'الخدمات' },
-  { href: '/about', label: 'من نحن؟' },
-  { href: '/theway', label: 'الطريقة' },
-  { href: '/prices', label: 'الأسعار' },
-  { href: '/comments', label: 'آراء عملائنا' },
+  { href: '#home', label: 'Home' },
+  { href: '#services', label: 'الخدمات' },
+  { href: '#about', label: 'من نحن؟' },
+  { href: '#theway', label: 'الطريقة' },
+  { href: '#prices', label: 'الأسعار' },
+  { href: '#comments', label: 'آراء عملائنا' },
 ];
 
 export const hero = {
